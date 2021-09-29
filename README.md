@@ -3,8 +3,8 @@
 ### Hi there! I'm Aaron Tran &nbsp; 👋  &nbsp; &nbsp;[![LinkedIn]
 
 <p align=”center”>
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<a href=”https://www.linkedin.com/in/aaronltran/”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&labelColor=blue">
 </a>
 </p>
 

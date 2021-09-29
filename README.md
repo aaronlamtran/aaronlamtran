@@ -10,7 +10,7 @@
 
 
 :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/aaronltran/  
-:heavy_check_mark: &nbsp; Based in Richmond, VA
+:heavy_check_mark: &nbsp; Based in Los Angeles, CA
 
 ### Languages & Tools
 

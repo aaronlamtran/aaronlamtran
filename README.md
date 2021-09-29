@@ -1,16 +1,8 @@
 
 
-### Hi there! I'm Aaron Tran &nbsp; 👋  &nbsp; &nbsp;[![LinkedIn]
+### Hi there! I'm Aaron Tran &nbsp; 👋 &nbsp; &nbsp;![LinkedIn](https://img.shields.io/badge/AaronTran%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronltran/ )
 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/aaronltran/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&labelColor=blue">
-</a>
-</p>
-
-
-:heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/aaronltran/  
-:heavy_check_mark: &nbsp; Based in Los Angeles, CA
+Based in Los Angeles, CA
 
 ### Languages & Tools
 

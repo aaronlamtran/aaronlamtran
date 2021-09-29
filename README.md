@@ -1,6 +1,6 @@
 
 
-### Hi there! I'm Aaron Tran &nbsp; 👋 &nbsp; &nbsp;![LinkedIn](https://img.shields.io/badge/AaronTran%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronltran/ )
+### Hi there! I'm Aaron Tran &nbsp; 👋 &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/AaronTran%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronltran/ )](https://www.linkedin.com/in/aaronltran/)
 
 Based in Los Angeles, CA
 
